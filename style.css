@@ -46,7 +46,7 @@ header{
 .header-main{
     width: 100%;
     height: 500px;
-    background-image: url("top.jpg");
+    background-image: url('top.jpg');
     background-size: cover;
     background-position: center;
     padding-top: 150px;
